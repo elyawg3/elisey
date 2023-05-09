@@ -1,5 +1,6 @@
 install:
 	pip install poetry && \
+	telebot install
 	poetry install
 
 start:
