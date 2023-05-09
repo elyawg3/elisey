@@ -1,6 +1,6 @@
 install:
 	pip install poetry && \
-	pip install telebot
+	pip install pyTelegramBotAPI
 	poetry install
 
 start:
