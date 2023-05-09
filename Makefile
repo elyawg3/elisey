@@ -3,4 +3,4 @@ install:
 	poetry install
 
 start:
-	poetry run python example_bot/main.py
+	poetry run python "C:\Users\elise\PycharmProjects\pythonProject\main.py"
